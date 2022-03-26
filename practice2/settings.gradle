@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "practice2"
-include ':app'
+include ':lifecycleactivity'
+include ':multyactivity'
